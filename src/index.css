@@ -1,0 +1,20 @@
+
+body{
+    background-color: #B5EAEA;
+
+}
+
+.container  {
+    background-color: #F38BA0;
+    margin-top: 20vh;
+    max-height: 80vh;
+}
+.container h3 {
+    text-align: center;
+    color: #EDF6E5;
+}
+button svg {
+    color:#FFBCBC ;
+    transform: scale(2);
+}
+
